@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 📫 How to reach me **ayyoub.salmi@univ-littoral.fr**
+- 📫 You can reach me on: **ayyoub.salmi@univ-littoral.fr**
 
-- ⚡ Fun fact **I run on tea instead of coffee**
+- ⚡ Fun fact: **I run on tea instead of coffee**
 
 
 <h3 align="left">Languages and Tools:</h3>
