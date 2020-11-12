@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayyoub</h1>
-<h3 align="center">I'm a postdoctoral researcher at MABLab, University of the Littoral Opal Coast</h3>
+I'm a postdoctoral researcher at MABLab, University of the Littoral Opal Coast,
 
 - 🔭 I’m currently working on **multi-omics data integration**
 
